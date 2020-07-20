@@ -116,4 +116,4 @@ cp_info        constant_pool[constant_pool_count-1];//常量池
 静态变量、静态语句块与实例变量、普通语句块按照它们各自顺序调用
 通过隐式super()调用父类无参构造方法，若在创建对象时显式调用，那么将不会在调父类无参构造
 <----------------------------------------------------->
-![image](/home/tong/图片/jvm.png)
+![image](https://github.com/TongKings/Test/blob/master/jvm.png)
