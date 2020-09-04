@@ -223,6 +223,8 @@ public class AllocationOnStack {
         byte[] allocation1;
         allocation1 = new byte[1 * _1B];
       
+
+      
     }
 
 }
