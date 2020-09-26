@@ -108,7 +108,6 @@ if __name__ == '__main__':
 
 ![image-20200926193011670](/home/tong/.config/Typora/typora-user-images/image-20200926193011670.png)
 
-
-
-
-
+    crond计时自动填报
+    
+  40 7,12,17 * * * python3 /home/tong/文档/tdz.py >> /home/tong/文档/tdz.py.log 2>&1
